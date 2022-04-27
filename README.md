@@ -1,5 +1,5 @@
 # 我的文章
 
-[第一篇文章](post/20220427-第一篇文章/第一篇文章.md)
+[荒岛减肥法](post/20211121-荒岛减肥法/荒岛减肥法.md)
 
-[《TypeScript编程》读书笔记](post/20220427-《TypeScript编程》读书笔记/《TypeScript编程》读书笔记.md)
+[《TypeScript编程》读书笔记](post/20211204-《TypeScript编程》读书笔记/《TypeScript编程》读书笔记.md)
