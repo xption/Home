@@ -1,12 +1,3 @@
----
-title: 《TypeScript编程》读书笔记
-description: 这是一本帮助JavaScript程序员学习TypeScript的书。
-categories:
-- [编程, TypeScript]
-tags: [TypeScript, 读书笔记]
-date: 2021-12-04 19:32:18
----
-
 ### 1 关于本书
 
 #### 1.1 作者
